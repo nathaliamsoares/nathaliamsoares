@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Nathalia Machado</h1>
-<h3 align="center">Sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por aprender novas tecnologias e frameworks. </h3>
+<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas apaixonada por aprender novas tecnologias e frameworks.<br> Atualmente sou estagiária de Quality Assurance! </h3>
 
-- 🌱 Aprendendo: **Python e Banco de Dados Relacionais**
+- 🌱 Aprendendo: **Python, Testes automatizados com Python e Selenium e Testes funcionais**
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
