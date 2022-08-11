@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Nathalia 👋</h1>
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas apaixonada por aprender novas tecnologias e frameworks.<br> Atualmente sou estagiária de Quality Assurance na ADP Brazil Labs! </h3>
+<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas apaixonada por aprender novas tecnologias e frameworks.<br> Atualmente sou Quality Assurance Analyst na ADP Brazil Labs! </h3>
 
 - 🌱 Aprendendo: **Python, Testes automatizados com Python e Selenium e Testes funcionais**
 
